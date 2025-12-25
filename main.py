@@ -16,7 +16,7 @@ BOT_TOKEN = "8597912574:AAHz4o5lKG2J6MvfHIOvfD5SqmX1pAmsjNg"
 FORCE_JOIN_CHANNEL = "@TITANXBOTMAKING"
 OWNER_ID = 8453291493  # Aapka user id for broadcast permissions
 
-EMOJIS = ["🔥","⚡","💀","👑","😈","🚀","💥","🌀","🧨","🎯","🐉","🦁","☠️"]
+EMOJIS = ["♾️","🖕🏻","🍌","😁","💨","🌚","🤮","🤏🏻","🤳🏻","🌸","🌡️","🌈","🌚"]
 
 # Storage for ongoing gcnc tasks and groups
 gcnc_tasks = {}
